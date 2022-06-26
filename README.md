@@ -1,7 +1,7 @@
 ### Olá eu sou Felipe Fontana 👋
 
-- 🔭 FullStack
-- 🌱 Sempre Estudando: ReactJS | VueJS | NodeJS | Adonis | Laravel
+- 🔭 FullStack Developer
+- 👨🏻‍💻 Sempre Estudando: PHP | NodeJS | ReactJS | Docker | Linux
 - 📫 Contate-me no email: felipe@fontadev.com.br
 
 <div>
